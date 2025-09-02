@@ -1,6 +1,6 @@
 # 20250902-GH900
 20250902-GH900
 
-## Moudule 01
+## Module 01
 Intro Git
 
